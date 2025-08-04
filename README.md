@@ -19,7 +19,7 @@ Repository: **https://github.com/GolgiBody1/Automatically-bot**
 ### 🚀 Deploy to Railway
 Click the button below to deploy this bot instantly on Railway:
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/GolgiBody1/Automatically-bot)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/GolgiBody 1/Automatically-bot)
 
 ---
 
